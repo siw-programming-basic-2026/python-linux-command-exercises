@@ -176,7 +176,6 @@ python exercises/ex6_pipeline.py             # 本物の who で実行
 ```
 README.md           この資料
 exercises/          学生が編集する課題(compare.py は比較用の補助。編集不要)
-solutions/          教員用の解答例
 tests/              pytest による確認
 pytest.ini          pytestの設定
 ```
