@@ -178,5 +178,5 @@ README.md           この資料
 exercises/          学生が編集する課題(compare.py は比較用の補助。編集不要)
 solutions/          教員用の解答例
 tests/              pytest による確認
-teacher_guide.md    教員向け
+pytest.ini          pytestの設定
 ```
