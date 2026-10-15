@@ -1,4 +1,4 @@
-# LinuxコマンドをPythonで作ってみよう(90分)
+# LinuxコマンドをPythonで作ってみよう
 
 `who | awk '{print $1}' | sort | uniq -c | sort -rn` というシェルのパイプラインを、Pythonで一歩ずつ再現します。
 
