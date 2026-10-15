@@ -26,7 +26,7 @@
 ## 準備
 
 ```bash
-cd linux-python-lesson
+cd 作成したリポジトリ名
 python3 --version          # 3.10 以上
 python3 -m pip install pytest
 pytest                     # 最初は全部失敗します。これが出発点です
